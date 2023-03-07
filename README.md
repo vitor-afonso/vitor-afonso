@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Wallpoet&size=22&pause=1000&color=66F72E&width=435&lines=Code+speaks+louder+than+words.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Wallpoet&size=22&pause=1000&color=32DA55&width=435&lines=Code+speaks+louder+than+words.)](https://git.io/typing-svg)
 
 <!--
 **vitor-afonso/vitor-afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
